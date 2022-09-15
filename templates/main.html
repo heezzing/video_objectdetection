@@ -1,0 +1,115 @@
+<!DOCYTYPE HTML>
+<html>
+  <style>
+    * {
+      font-family: "Noto Sans KR", sans-serif;
+    }
+    .middle_background {
+      text-align: center;
+      display: flex;
+      background: white;
+      flex-direction: column;
+    }
+    img {
+      float: left;
+      padding: 10px;
+      width: 50%;
+    }
+    /* 3 제목을 입력하세요 */
+    .base_text {
+      /* 위에서부터 떨어진 거리 */
+      margin-top: 10px;
+      color: black;
+      font-weight: 800;
+      font-size: 2em;
+      text-align: center;
+    }
+    /* 4 제목을 입력하세요 */
+    .base_text2 {
+      color: white;
+      font-weight: 800;
+      font-size: 2em;
+      text-align: center;
+    }
+    .bottom_background {
+      flex-direction: row;
+      border-radius: 10px;
+      margin: 5px;
+      text-align: center;
+      background-color: #14505b;
+      padding: 20px;
+    }
+    /* 흰색 칸 */
+    #main_input {
+      padding: 10%;
+      border: white;
+      background-color: white;
+      box-sizing: border-box;
+      margin: 0px;
+      padding-top: 20px;
+      padding-bottom: 0.1em;
+      border-radius: 10px;
+    }
+    /* submit 버튼 */
+    .button {
+      display: inline-block;
+      background-color: #14505b;
+      color: white;
+      padding: 1rem 2rem;
+      font-weight: var(--font-semi-bold);
+      transition: 0.3s;
+      border-radius: 5px;
+    }
+  </style>
+  <head>
+    <title>탭에 들어갈 내용</title>
+    <meta charset="UTF-8" />
+    <!-- font_변경가능-->
+    <link
+      href="https://fonts.googleapis.com/css2?family=Noto+Sans+KR:wght@300&display=swap"
+      rel="stylesheet"
+    />
+    <!-- bootstrap-->
+    <link
+      rel="stylesheet"
+      href="https://cdn.jsdelivr.net/npm/bootstrap@4.0.0/dist/css/bootstrap.min.css"
+      integrity="sha384-Gn5384xqQ1aoWXA+058RXPxPg6fy4IWvTNh0E263XmFcJlSAwiGgFAW/dAiS6JXm"
+      crossorigin="anonymous"
+    />
+  </head>
+  <body>
+    <div>
+      <div class="middle_background">
+        <div class="base_text">자율주행자동차 Object Detection</div>
+        <div>
+          <img
+            src="https://raw.githubusercontent.com/jungsuyun/yolov5_deepsort_ros/master/doc/track_all.gif"
+          />
+          <img
+            src="https://raw.githubusercontent.com/jungsuyun/yolov5_deepsort_ros/master/doc/track_all.gif"
+          />
+        </div>
+      </div>
+    </div>
+    <div class="bottom_background">
+      <p class="base_text2">링크에 있는 영상 속 사람/자동차/신호등을 객체인식하여 박스로 라벨링 처리해줍니다. <br>영상링크(주소)를 입력해주세요.</p>
+      <div id="main_input">
+        <form action="http://localhost:9999/fileUpload" method="POST">
+          <fieldset>
+            <input
+              style="border: 0 solid white;"
+              type="text"
+              name="url"
+              id="url"
+              placeholder="https://example.com"
+              pattern="https://.*"
+              size="100px"
+              required
+            />
+            <button class="button" type="submit">submit</button>
+          </fieldset>
+        </form>
+      </div>
+    </div>
+  </body>
+</html>
