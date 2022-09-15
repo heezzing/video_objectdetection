@@ -25,7 +25,9 @@ Link : [https://github.com/heezzing/cp1_5team.git](https://github.com/heezzing/c
 ## 프로젝트 내용
 ### 목차
 <img width="700" alt="스크린샷 2022-09-15 오후 1 01 05" src="https://user-images.githubusercontent.com/97447841/190311058-6721075a-4f86-4942-8cb6-8e00427be622.png">
+
 ------
+
 ### 주제 및 주제 선정 이유
 <img width="700" alt="스크린샷 2022-09-15 오후 1 14 27" src="https://user-images.githubusercontent.com/97447841/190312714-8db34f69-e441-45f0-b986-4cfc96125f78.png">
 
@@ -34,6 +36,7 @@ Link : [https://github.com/heezzing/cp1_5team.git](https://github.com/heezzing/c
 - 프로젝트 개요 : 누구 쉽게 객체탐지를 접하게 하기 위해 구현해 보았습니다.
 
 ------
+
 ### 팀 구성 및 역할
 <img width="700" alt="스크린샷 2022-09-15 오후 1 15 20" src="https://user-images.githubusercontent.com/97447841/190312880-b2816450-69fc-493d-8c57-a2c8fb6fc8d3.png">
 
@@ -41,6 +44,7 @@ Link : [https://github.com/heezzing/cp1_5team.git](https://github.com/heezzing/c
 - 역할을 나누지 않고  프로젝트를 단계별로 나누어 필요한 기술을 공부한 후 함께 결과물을 도출하는 방법으로 협업을 진행하였습니다.
 
 -----
+
 ### 프로젝트 수행 절차
 <img width="700" alt="스크린샷 2022-09-15 오후 1 15 57" src="https://user-images.githubusercontent.com/97447841/190312951-b9b6d33a-3ada-451d-bea7-dc6c8610a631.png">
 
@@ -52,6 +56,7 @@ Link : [https://github.com/heezzing/cp1_5team.git](https://github.com/heezzing/c
 - 마지막으로 발표자료를 만들고 영상을 촬용하였습니다.
 
 ------
+
 ### 데이터 파이프라인
 <img width="700" alt="스크린샷 2022-09-15 오후 1 16 36" src="https://user-images.githubusercontent.com/97447841/190313033-d94a87aa-4b66-4e47-ac2f-3d772df0637d.png">
 
@@ -70,6 +75,7 @@ Link : [https://github.com/heezzing/cp1_5team.git](https://github.com/heezzing/c
     - 동작이 완료되면 웹페이지에서 영상 재생이 가능합니다.
 
 ------
+
 ### YoloV5를 선택한 이유
 <img width="700" alt="스크린샷 2022-09-15 오후 1 17 23" src="https://user-images.githubusercontent.com/97447841/190313156-01b9c08a-8d74-47bf-b45b-7d23cc7d6bdd.png">
 
@@ -92,6 +98,7 @@ Link : [https://github.com/heezzing/cp1_5team.git](https://github.com/heezzing/c
     - Yolov5 객체 탐지 순서 :  이미지 분할 → 특징 추출 → 예측 탠서 생성 → bounding box 조정 및 분류
 
 ------
+
 ### OpenCV
 <img width="700" alt="스크린샷 2022-09-15 오후 1 18 08" src="https://user-images.githubusercontent.com/97447841/190313299-80b02dfd-e373-4c7e-ab61-7f1321a1bd4a.png">
 
@@ -110,6 +117,7 @@ Link : [https://github.com/heezzing/cp1_5team.git](https://github.com/heezzing/c
     - 이전 box 정보로 현재의 noise가 없는 새로운 box를 생성하기 위하여 위 과정을 반복하며 정보를 업데이트하고 최종 정보인 box를 그려줍니다.
 
 -------
+
 ### 시연 동영상
 - youtube link : [https://www.youtube.com/watch?v=V6yrb4vcQos](https://www.youtube.com/watch?v=O_KM5aAAW5w)
 - 순서
@@ -121,6 +129,7 @@ Link : [https://github.com/heezzing/cp1_5team.git](https://github.com/heezzing/c
     - 각 객체별로 바운딩 박스 색을 분류하였습니다.
  
 ------
+
 ### 마무리
 <img width="700" alt="스크린샷 2022-09-15 오후 1 24 10" src="https://user-images.githubusercontent.com/97447841/190314012-81b63118-bed6-48ee-bd0b-27acf4c2f363.png">
 
