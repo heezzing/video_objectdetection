@@ -24,10 +24,10 @@ Link : [https://github.com/heezzing/cp1_5team.git](https://github.com/heezzing/c
     
 ## 프로젝트 내용
 ### 목차
-<img width="794" alt="스크린샷 2022-09-15 오후 1 01 05" src="https://user-images.githubusercontent.com/97447841/190311058-6721075a-4f86-4942-8cb6-8e00427be622.png">
+<img width="700" alt="스크린샷 2022-09-15 오후 1 01 05" src="https://user-images.githubusercontent.com/97447841/190311058-6721075a-4f86-4942-8cb6-8e00427be622.png">
 ------
 ### 주제 및 주제 선정 이유
-<img width="794" alt="스크린샷 2022-09-15 오후 1 14 27" src="https://user-images.githubusercontent.com/97447841/190312714-8db34f69-e441-45f0-b986-4cfc96125f78.png">
+<img width="700" alt="스크린샷 2022-09-15 오후 1 14 27" src="https://user-images.githubusercontent.com/97447841/190312714-8db34f69-e441-45f0-b986-4cfc96125f78.png">
 
 - 주제 : Yolov5 및 Opencv를 활용하여 객체인식 영상처리 딥러닝 웹 서비스 개발하는 것.
 - 주제 선정 이유 : Object Detection 기술에 대한 이해력 상승을 위해 선정하였습니다.
@@ -35,14 +35,14 @@ Link : [https://github.com/heezzing/cp1_5team.git](https://github.com/heezzing/c
 
 ------
 ### 팀 구성 및 역할
-<img width="794" alt="스크린샷 2022-09-15 오후 1 15 20" src="https://user-images.githubusercontent.com/97447841/190312880-b2816450-69fc-493d-8c57-a2c8fb6fc8d3.png">
+<img width="700" alt="스크린샷 2022-09-15 오후 1 15 20" src="https://user-images.githubusercontent.com/97447841/190312880-b2816450-69fc-493d-8c57-a2c8fb6fc8d3.png">
 
 - 저희조는 총 4명의 팀원으로 구성되었습니다.
 - 역할을 나누지 않고  프로젝트를 단계별로 나누어 필요한 기술을 공부한 후 함께 결과물을 도출하는 방법으로 협업을 진행하였습니다.
 
 -----
 ### 프로젝트 수행 절차
-<img width="794" alt="스크린샷 2022-09-15 오후 1 15 57" src="https://user-images.githubusercontent.com/97447841/190312951-b9b6d33a-3ada-451d-bea7-dc6c8610a631.png">
+<img width="700" alt="스크린샷 2022-09-15 오후 1 15 57" src="https://user-images.githubusercontent.com/97447841/190312951-b9b6d33a-3ada-451d-bea7-dc6c8610a631.png">
 
 - 첫날 주제 선정 완료 하였습니다.
 - 프로젝트에 필요한 기술인 yolo,opencv에 대해 공부하였습니다.
@@ -53,7 +53,7 @@ Link : [https://github.com/heezzing/cp1_5team.git](https://github.com/heezzing/c
 
 ------
 ### 데이터 파이프라인
-<img width="794" alt="스크린샷 2022-09-15 오후 1 16 36" src="https://user-images.githubusercontent.com/97447841/190313033-d94a87aa-4b66-4e47-ac2f-3d772df0637d.png">
+<img width="700" alt="스크린샷 2022-09-15 오후 1 16 36" src="https://user-images.githubusercontent.com/97447841/190313033-d94a87aa-4b66-4e47-ac2f-3d772df0637d.png">
 
 1. Yolov5 
     - yolov5를 이용하여 객체를 탐지합니다.
@@ -71,7 +71,7 @@ Link : [https://github.com/heezzing/cp1_5team.git](https://github.com/heezzing/c
 
 ------
 ### YoloV5를 선택한 이유
-<img width="794" alt="스크린샷 2022-09-15 오후 1 17 23" src="https://user-images.githubusercontent.com/97447841/190313156-01b9c08a-8d74-47bf-b45b-7d23cc7d6bdd.png">
+<img width="700" alt="스크린샷 2022-09-15 오후 1 17 23" src="https://user-images.githubusercontent.com/97447841/190313156-01b9c08a-8d74-47bf-b45b-7d23cc7d6bdd.png">
 
 → Yolov5를 선택한 이유는  one stage detector의 연산속도가 빠르고 coco_dataset 으로 사전학습이 되어있어 편리하고 간단하여 선택하였습니다.
 
@@ -93,7 +93,7 @@ Link : [https://github.com/heezzing/cp1_5team.git](https://github.com/heezzing/c
 
 ------
 ### OpenCV
-<img width="794" alt="스크린샷 2022-09-15 오후 1 18 08" src="https://user-images.githubusercontent.com/97447841/190313299-80b02dfd-e373-4c7e-ab61-7f1321a1bd4a.png">
+<img width="700" alt="스크린샷 2022-09-15 오후 1 18 08" src="https://user-images.githubusercontent.com/97447841/190313299-80b02dfd-e373-4c7e-ab61-7f1321a1bd4a.png">
 
 - OpenCV
     - 영상처리에 사용할 수 있는 오픈 소스 라이브러리입니다.
@@ -122,7 +122,7 @@ Link : [https://github.com/heezzing/cp1_5team.git](https://github.com/heezzing/c
  
 ------
 ### 마무리
-<img width="794" alt="스크린샷 2022-09-15 오후 1 24 10" src="https://user-images.githubusercontent.com/97447841/190314012-81b63118-bed6-48ee-bd0b-27acf4c2f363.png">
+<img width="700" alt="스크린샷 2022-09-15 오후 1 24 10" src="https://user-images.githubusercontent.com/97447841/190314012-81b63118-bed6-48ee-bd0b-27acf4c2f363.png">
 
 - 아쉬운점 
     - 다른 모델과 (Fast_RCNN,CNN) 성능을 비교하지 못한 것
