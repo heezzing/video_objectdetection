@@ -4,7 +4,7 @@ Date : 2022.6.24~2022.7.6
 
 Tags : `Yolov5`  `OpenCV`  `Flask` 
 
-Link : [https://github.com/heezzing/cp1_5team.git](https://github.com/heezzing/cp1_5team.git)
+Link : [https://github.com/heezzing/cp1_5team.git](https://github.com/heezzing/project5.git)
 
 발표영상 : [https://youtu.be/b7fFukYAhTo](https://youtu.be/b7fFukYAhTo)
 
