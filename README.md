@@ -20,7 +20,7 @@ Link : [https://github.com/heezzing/project5.git](https://github.com/heezzing/pr
 - 기술 스텍
     - YOLOv5 : 객체인식을 하기 위해 사용한 모델
     - OpenCV : 영상처리를 하기 위해 사용한 모델
-    - FLASK : 웹 기반 딥러닝 처리
+    - FLASK : 웹 기반 딥러닝 서비스 구현
     
 ## 프로젝트 내용
 ### 목차
